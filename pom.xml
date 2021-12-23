@@ -10,10 +10,10 @@
     <!-- lookup parent from repository -->
   </parent>
   <groupId>ys.kim</groupId>
-  <artifactId>oauth2-learn-2</artifactId>
+  <artifactId>oauth2-jwt-learn</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>oauth2-learn-2</name>
-  <description>Demo project for Spring Boot</description>
+  <description>To Learn OAuth and JWT</description>
   <properties>
     <java.version>11</java.version>
   </properties>
